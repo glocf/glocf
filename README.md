@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello I am Folie, Actually Backend Developer.
 
+# 🌷 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rtikd4nuz66lhx3zukemw6tboy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31rtikd4nuz66lhx3zukemw6tboy&redirect=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lsqxy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/loved) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@foliiiiii) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/loved) 
