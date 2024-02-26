@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I am Folie, Backend Developer.
+Hello I am Folie, Actually Backend Developer.
 
 
 ## 🌐 Socials:
