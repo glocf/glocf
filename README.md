@@ -24,11 +24,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello, World! 🌍</h1>
 
 ###
 
-<h3 align="left">💫About Me :</h3>
+<h3 align="left">🌟 Who I Am </h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">💻Tech Stack</h3>
+<h3 align="left">💡 My Tech Toolbox </h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">📊GitHub Stats :</h3>
+<h3 align="left">📊 My GitHub Performance </h3>
 
 ###
 
@@ -53,10 +53,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glocf&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glocf&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=glocf.glocf&"  />
-</div>
-
-###
