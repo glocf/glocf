@@ -54,11 +54,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glocf&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ###
+[![](https://visitor-badge.laobi.icu/badge?page_id=glocf.glocf&](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31rtikd4nuz66lhx3zukemw6tboy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rtikd4nuz66lhx3zukemw6tboy&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
