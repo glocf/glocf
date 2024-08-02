@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://instagram.com/lsqxy" target="_blank">
+  <a href="https://instagram.com/lovvusuei" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/@me/1178744014862815292" target="_blank">
+  <a href="https://discord.com/@me/407839462815432715" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://t.me/yeruzaa" target="_blank">
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm  folie, Actually Backend Developer</p>
+<p align="left">Hello, I'm Andres Actually Backend - Malware Dev</p>
 
 ###
 
@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=glocf&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glocf&theme=tokyonight&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
 ###
