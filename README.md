@@ -54,7 +54,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glocf&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-[![](https://visitor-badge.laobi.icu/badge?page_id=glocf.glocf&](https://visitcount.itsvg.in)
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=glocf.glocf&"  />
+</div>
 
 ###
