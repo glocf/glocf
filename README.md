@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Hello, I'm Andrés, a programmer specialized in backend development and malware analysis. With solid experience in creating efficient and secure solutions, I am passionate about exploring new technologies and trends in the programming field. I am always looking for opportunities to grow professionally and contribute to innovative projects.</p>
+<p align="left">Hello, programmer specialized in backend development and malware analysis. With solid experience in creating efficient and secure solutions, I am passionate about exploring new technologies and trends in the programming field. I am always looking for opportunities to grow professionally and contribute to innovative projects.</p>
 
 ###
 
